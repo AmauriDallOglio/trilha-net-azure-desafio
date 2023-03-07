@@ -5,7 +5,7 @@
 # [Azure.pdf](https://github.com/AmauriDallOglio/trilha-net-azure-desafio/files/10908868/Azure.pdf)
 
 
-## O PDF esta em modo reumido para detalhar as etapas da criação da conta e aplicação no AZURE.
+## O PDF esta em modo resumido para detalhar as etapas da criação da conta e das aplicações no AZURE.
 
 
 
